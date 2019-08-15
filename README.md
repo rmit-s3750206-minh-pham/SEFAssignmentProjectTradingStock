@@ -1,0 +1,2 @@
+# SEFAssignmentProjectTradingStock
+Assignment1
